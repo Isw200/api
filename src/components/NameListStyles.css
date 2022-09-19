@@ -1,0 +1,14 @@
+.flexBox {
+    display: flex;
+    border: 1px solid;
+  }
+  .flexBox .imageBox {
+    width: 20%;
+  }
+  .flexBox .imageBox img {
+    width: 60%;
+  }
+  .flexBox span {
+    text-align: start;
+  }
+  
